@@ -21,5 +21,3 @@ A simple and responsive To-Do List application built using HTML, CSS, and Vanill
 ## Author
 
 G.Bharath Kumar
-# todo-list-app
-
